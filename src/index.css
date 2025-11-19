@@ -14,7 +14,7 @@ body {
 	font-style: 400;
 	color: #333;
 	font-size: 16px;
-	/* background-color: #26c6da; */
+	background-color: #26c6da;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 	-webkit-font-smoothing: antialiased;
@@ -172,7 +172,7 @@ textarea {
 	text-transform: none;
 	line-height: 1;
 
-	content: "e65e";
+	content: "\2713";
 }
 
 .input-symbol {
@@ -240,7 +240,7 @@ textarea {
 }
 
 .icon-star:before {
-	content: "e608";
+	content: "\2605";
 }
 
 .icon-face-sad:before {
@@ -248,7 +248,7 @@ textarea {
 }
 
 .icon-check:before {
-	content: "e65e";
+	content: "\2713";
 }
 
 .list-heading {
